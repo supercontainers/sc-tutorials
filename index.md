@@ -6,7 +6,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 
 <img src="{{ page.root }}/fig/ecp.jpg" alt="ECP Logo" width="250">
-<img src="{{ page.root }}/fig/pawsey_wide.jpeg" alt="Pawsey Logo" width="250">
+<img src="{{ page.root }}/fig/pawsey.png" alt="Pawsey Logo" width="250">
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
 

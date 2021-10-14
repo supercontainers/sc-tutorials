@@ -5,7 +5,7 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutori
 
 ## ECP Supercontainers Tutorial Session
 
-<img src="fig/ecp.jpg" width="250"><img src="fig/pawsey.jpeg" width="250">
+<img src="fig/ecp.jpg" width="250"><img src="fig/pawsey.png" width="250"><img src="fig/redhat.png" width="250">
 
 
 ## Details
