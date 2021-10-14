@@ -40,9 +40,9 @@ To run the examples yourself, you can download the materials with:
 
 ```bash
 cd ~
-git clone https://github.com/supercontainers/isc-tutorial.git
-cd isc-tutorial
-git checkout isc21
+git clone https://github.com/supercontainers/sc-tutorials.git
+cd sc-tutorials
+git checkout sc21
 cd exercises
 ```
 
