@@ -69,23 +69,49 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 ## Schedule
 
-14:00 - 14:15 Introduction to containers in HPC (Shane)  
+WORK IN PROGRESS - ORDER OF TOPICS TO BE DISCUSSED
+
+8:30 - 8:45 Introduction to containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  
 
-14:15 - 14:55 Build and run your first container with Podman (Shane)  
+8:45 - 9:25 Build and run your first container with Podman (Shane)  
 Including also minimal pull and run examples, to define these concepts  
 
-14:55 - 15:30 Deploy containers on a supercomputer (Marco)  
+9:25 - 10:00 Deploy containers on a supercomputer (Marco)  
 
-15:30 - 16:00 High-performance containers (Marco)  
+10:00 - 10:30 MORNING BREAK
 
-16:00 - 16:30 BREAK
+10:30 - 11:00 High-performance containers (Marco)  
 
-16:30 - 17:05 Best practices (Shane)  
+11:00 - 11:30 Best practices (Shane)  
 
-17:05 - 17:35 E4S containers initiative (Sameer)  
+11:30 - 12:00 E4S containers initiative (Sameer)  
 
-17:35 - 17:55 Advanced container builds (Eduardo)  
+12:00 - 13:30 LUNCH BREAK (WE CAN CHOOSE BETWEEN RESTART AT 13 OR 13:30, HAVE TO TELL ORGANISERS)
 
-17:55 - 18:00 Wrap-up and final Q&A  
+13:30 - 13:50 Advanced container builds (Eduardo)  
 
+13:50 - 15:00 TO BE DECIDED
+
+15:00 - 15:30 AFTERNOON BREAK
+
+15:30 - 16:55 TO BE DECIDED
+
+16:55 - 17:00 Wrap-up and final Q&A  
+
+
+## WORK IN PROGRESS
+
+Topics that we could add:
+- HPC containers: more detailed MPI discussion with MPI swap (Sameer's examples)
+- Interactive RStudio
+  - NERSC Spin (Shane)
+  - RStudio on a cloud VM with Docker (Marco)
+- User cases
+  - Gromacs on Nvidia GPUs (Marco)
+  - Nextflow bioinformatics workflows (Marco)
+- Deployment as Container Modules
+  - with Singularity Registry HPC, SHPC (Marco)
+  - ? compatibility layer in Shifter (Shane)
+- ? Kubernetes deployments (Eduardo)
+- ? Creating Dockerfiles with Spack (Eduardo)
