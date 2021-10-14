@@ -6,17 +6,17 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 
 <img src="{{ page.root }}/fig/ecp.jpg" alt="ECP Logo" width="250">
-<img src="{{ page.root }}/fig/pawsey_wide.jpeg" alt="Pawsey Logo" width="250">
+<img src="{{ page.root }}/fig/pawsey.png" alt="Pawsey Logo" width="250">
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
 
-ECP Supercontainers Tutorial Session @ International Supercomputing Conference 2021 (ISC 2021)
+ECP Supercontainers Tutorial Session @ Supercomputing Conference 2021 (SC21)
 
-Date: 24 June 2021 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
+Date: Monday, 15 November 2021 8am - 5pm Central Standard Time (GMT -6)
 
-Location: Virtual
+Location: Virtual, St. Louis MO, USA
 
-Link: [ISC 2021 Schedule](https://www.isc-hpc.com/schedule.html)
+Link: [SC 2021 Tutorial Details](https://sc21.supercomputing.org/presentation/?id=tut114&sess=sess185)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 

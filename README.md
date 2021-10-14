@@ -1,24 +1,24 @@
 # Getting Started with Containers on HPC
 
-View this on the [Tutorial Homepage](https://supercontainers.github.io/isc-tutorial/).
+View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutorials/).
 
 
 ## ECP Supercontainers Tutorial Session
 
-<img src="fig/ecp.jpg" width="250"><img src="fig/pawsey.jpeg" width="250">
+<img src="fig/ecp.jpg" width="200"><img src="fig/pawsey.png" width="200"><img src="fig/redhat.png" width="200">
 
 
 ## Details
 
-Half-day Tutorial Session
+Full-day Tutorial Session
 
-Venue: International Supercomputing Conference (ISC 2021)
+Venue: Supercomputing Conference (SC 21)
 
-Date: 24 June 2021 2:00pm - 6:00pm, Central European Summer Time CEST (GMT+2)
+Date: Monday, 15 November 2021 8am - 5pm Central Standard Time (GMT -6)
 
-Location: Virtual
+Location: Virtual, St. Louis MO, USA
 
-Link: [ISC 2021 Schedule](https://www.isc-hpc.com/schedule.html)
+Link: [SC 2021 Tutorial Details](https://sc21.supercomputing.org/presentation/?id=tut114&sess=sess185)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
@@ -30,9 +30,9 @@ These will be provided the day of the tutorial.
 
 ## Abstract
 
-Container computing has revolutionized the way applications are developed and delivered.  It offers opportunities that never existed before for significantly improving efficiency of scientific workflows and easily moving these workflows from the laptop to the supercomputer.  Tools like Docker, Shifter, Singularity, Charliecloud and Podman enable a new paradigm for scientific and technical computing.  However, to fully unlock its potential, users and administrators need to understand how to utilize these new approaches.  This tutorial will introduce attendees to the basics of creating container images, explain best practices, and cover more advanced topics such as creating images to be run on HPC platforms using various container runtimes.  The tutorial will also explain how research scientists can utilize container-based computing to accelerate their research and how these tools can boost the impact of their research by enabling better reproducibility and sharing of their scientific process without compromising security. 
+Within just the past few years, the use of containers has revolutionized the way in which industries and enterprises have developed and deployed computational software and distributed systems. The containerization model has gained traction within the HPC community as well with the promise of improved reliability, reproducibility, portability, and levels of customization that were previously not possible on supercomputers. This adoption has been enabled by a number of HPC Container runtimes that have emerged including Singularity, Shifter, Enroot, Charliecloud and others.
 
-This is an updated version of the highly successful tutorial presented at SC16-20 and ISC19.
+This hands-on tutorial looks to train users on the usability of containers on HPC resources. We will provide a detailed background on Linux containers, along with introductory hands-on experience building a container image, sharing the container and running it on a HPC cluster. Furthermore, the tutorial will provide more advanced information on how to run MPI-based and GPU-enabled HPC applications, how to optimize I/O intensive workflows, and how to setup GUI enabled interactive sessions. Cutting-edge examples will include machine learning and bioinformatics. Users will leave the tutorial with a solid foundational understanding of how to utilize containers with HPC resources through Shifter and Singularity, as well as an in-depth knowledge to deploy custom containers on their own resources.
 
 
 ## Prerequisites
@@ -69,23 +69,49 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 ## Schedule
 
-14:00 - 14:15 Introduction to containers in HPC (Shane)  
+WORK IN PROGRESS - ORDER OF TOPICS TO BE DISCUSSED
+
+8:30 - 8:45 Introduction to containers in HPC (Shane)  
 Including defining jargon (containers, images, registries/repos,..)  
 
-14:15 - 14:55 Build and run your first container with Podman (Shane)  
+8:45 - 9:25 Build and run your first container with Podman (Shane)  
 Including also minimal pull and run examples, to define these concepts  
 
-14:55 - 15:30 Deploy containers on a supercomputer (Marco)  
+9:25 - 10:00 Deploy containers on a supercomputer (Marco)  
 
-15:30 - 16:00 High-performance containers (Marco)  
+10:00 - 10:30 MORNING BREAK
 
-16:00 - 16:30 BREAK
+10:30 - 11:00 High-performance containers (Marco)  
 
-16:30 - 17:05 Best practices (Shane)  
+11:00 - 11:30 Best practices (Shane)  
 
-17:05 - 17:35 E4S containers initiative (Sameer)  
+11:30 - 12:00 E4S containers initiative (Sameer)  
 
-17:35 - 17:55 Advanced container builds (Eduardo)  
+12:00 - 13:30 LUNCH BREAK (WE CAN CHOOSE BETWEEN RESTART AT 13 OR 13:30, HAVE TO TELL ORGANISERS)
 
-17:55 - 18:00 Wrap-up and final Q&A  
+13:30 - 13:50 Advanced container builds (Eduardo)  
 
+13:50 - 15:00 TO BE DECIDED
+
+15:00 - 15:30 AFTERNOON BREAK
+
+15:30 - 16:55 TO BE DECIDED
+
+16:55 - 17:00 Wrap-up and final Q&A  
+
+
+## WORK IN PROGRESS
+
+Topics that we could add:
+- HPC containers: more detailed MPI discussion with MPI swap (Sameer's examples)
+- Interactive RStudio
+  - NERSC Spin (Shane)
+  - RStudio on a cloud VM with Docker (Marco)
+- User cases
+  - Gromacs on Nvidia GPUs (Marco)
+  - Nextflow bioinformatics workflows (Marco)
+- Deployment as Container Modules
+  - with Singularity Registry HPC, SHPC (Marco)
+  - ? compatibility layer in Shifter (Shane)
+- ? Kubernetes deployments (Eduardo)
+- ? Creating Dockerfiles with Spack (Eduardo)
