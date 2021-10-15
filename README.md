@@ -86,7 +86,11 @@ Might also include creating Dockerfiles with Spack, and Buildah?
 Intro to the need for HPC Runtimes and Use Cases  
 
 10:50 - 11:10 Installing a container engine (who?)  
-Install Singularity and Charliecloud  
+Install Singularity and Charliecloud.  
+Might also include deploying Containers as Modules:
+- with Singularity Registry HPC, SHPC (Marco)
+- with compatibility layer in Shifter? (Shane)
+- in this case, possibly take 10 extra minutes from the previous slot
 
 11:10 - 11:40 Running HPC jobs with containers (Marco)  
 Using Singularity and Shifter to run containers on HPC  
@@ -121,11 +125,5 @@ Unless already covered above?
 
 16:45 - 17:00 Interactive Q & A  
 Including closing remarks, survey and feedback  
-
-
-### One more topic for consideration
-- Deployment as Container Modules
-  - with Singularity Registry HPC, SHPC (Marco)
-  - compatibility layer in Shifter? (Shane)
 
 
