@@ -69,49 +69,63 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 ## Schedule
 
-WORK IN PROGRESS - ORDER OF TOPICS TO BE DISCUSSED
+WORK IN PROGRESS  
 
-8:30 - 8:45 Introduction to containers in HPC (Shane)  
-Including defining jargon (containers, images, registries/repos,..)  
+8:30 - 8:50 Introduction and Update on Linux containers - SLIDES (Shane)  
+Including logging into VM, and defining jargon  
 
-8:45 - 9:25 Build and run your first container with Podman (Shane)  
-Including also minimal pull and run examples, to define these concepts  
+8:50 - 9:20 Running containers (Shane)  
+Using Docker and Podman to run containers  
 
-9:25 - 10:00 Deploy containers on a supercomputer (Marco)  
+9:20 - 10:00 Building and sharing container image (Eduardo?)  
+Might also include creating Dockerfiles with Spack, and Buildah?  
 
 10:00 - 10:30 MORNING BREAK
 
-10:30 - 11:00 High-performance containers (Marco)  
+10:30 - 10:50 HPC and Containers - SLIDES (Marco? others?)  
+Intro to the need for HPC Runtimes and Use Cases  
 
-11:00 - 11:30 Best practices (Shane)  
+10:50 - 11:10 Installing a container engine (?)  
+Install Singularity and Charliecloud  
 
-11:30 - 12:00 E4S containers initiative (Sameer)  
+11:10 - 11:40 Running HPC jobs with containers (Marco)  
+Using Singularity and Shifter to run containers on HPC  
 
-12:00 - 13:30 LUNCH BREAK (WE CAN CHOOSE BETWEEN RESTART AT 13 OR 13:30, HAVE TO TELL ORGANISERS)
+11:40 - 12:00 Interactive Q & A  
+Using Slurm to submit container jobs  
 
-13:30 - 13:50 Advanced container builds (Eduardo)  
+12:00 - 13:30 LUNCH BREAK (CAN CHOOSE BETWEEN RESTART AT 13 OR 13:30, HAVE TO TELL ORGANISERS)
 
-13:50 - 15:00 TO BE DECIDED
+13:30 - 14:20 Advanced use cases (Marco?)  
+Might include:
+- MPI (including Sameers' MPI swap)
+- Gromacs on Nvidia GPUs
+- Intensive I/O using OverlayFS, TrinityRNAseq
+- Nextflow bioinformatics workflows
+
+14:20 - 15:00 Advanced deployments (multiple presenters?)  
+Might include:
+- RStudio on HPC with NERSC Spin (Shane)
+- RStudio on a cloud VM with Docker (Marco)
+- Kubernetes deployments? (Eduardo)
 
 15:00 - 15:30 AFTERNOON BREAK
 
-15:30 - 16:55 TO BE DECIDED
+15:30 - 16:00 Containers with E4S (Sameer)  
+Use xSDK/E4S containers  
 
-16:55 - 17:00 Wrap-up and final Q&A  
+16:00 - 16:30 Container images best practices (Shane)  
+
+16:30 - 16:45 Success Stories and Use Cases (?)  
+Unless already covered above?  
+
+16:45 - 17:00 Interactive Q & A  
+Including closing remarks, survey and feedback  
 
 
-## WORK IN PROGRESS
-
-Topics that we could add:
-- HPC containers: more detailed MPI discussion with MPI swap (Sameer's examples)
-- Interactive RStudio
-  - NERSC Spin (Shane)
-  - RStudio on a cloud VM with Docker (Marco)
-- User cases
-  - Gromacs on Nvidia GPUs (Marco)
-  - Nextflow bioinformatics workflows (Marco)
+### One more topic for consideration
 - Deployment as Container Modules
   - with Singularity Registry HPC, SHPC (Marco)
-  - ? compatibility layer in Shifter (Shane)
-- ? Kubernetes deployments (Eduardo)
-- ? Creating Dockerfiles with Spack (Eduardo)
+  - compatibility layer in Shifter? (Shane)
+
+
