@@ -85,7 +85,7 @@ Might also include creating Dockerfiles with Spack, and Buildah?
 10:30 - 10:50 HPC and Containers - SLIDES (Marco? others?)  
 Intro to the need for HPC Runtimes and Use Cases  
 
-10:50 - 11:10 Installing a container engine (?)  
+10:50 - 11:10 Installing a container engine (who?)  
 Install Singularity and Charliecloud  
 
 11:10 - 11:40 Running HPC jobs with containers (Marco)  
