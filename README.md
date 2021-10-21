@@ -109,7 +109,7 @@ Might include:
 
 14:20 - 15:00 Advanced deployments (multiple presenters?)  
 Might include:
-- RStudio on HPC with NERSC Spin (Shane)
+- A brief overview of deploying services using Rancher (Shane)
 - RStudio on a cloud VM with Docker (Marco)
 - Kubernetes deployments? (Eduardo)
 
@@ -120,8 +120,8 @@ Use xSDK/E4S containers
 
 16:00 - 16:30 Container images best practices (Shane)  
 
-16:30 - 16:45 Success Stories and Use Cases (?)  
-Unless already covered above?  
+16:30 - 16:45 Success Stories and Use Cases (Shane)
+- Examples of Containers used in a variety of uses and scales
 
 16:45 - 17:00 Interactive Q & A  
 Including closing remarks, survey and feedback  
