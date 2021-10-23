@@ -82,7 +82,7 @@ Might also include creating Dockerfiles with Spack, and Buildah?
 
 10:00 - 10:30 MORNING BREAK
 
-10:30 - 10:50 HPC and Containers - SLIDES (Marco? others?)  
+10:30 - 10:50 HPC and Containers - SLIDES (Shane)  
 Intro to the need for HPC Runtimes and Use Cases  
 
 10:50 - 11:10 Installing a container engine (who?)  
@@ -100,14 +100,14 @@ Using Slurm to submit container jobs
 
 12:00 - 13:30 LUNCH BREAK (CAN CHOOSE BETWEEN RESTART AT 13 OR 13:30, HAVE TO TELL ORGANISERS)
 
-13:30 - 14:20 Advanced use cases (Marco?)  
+13:30 - 14:20 Advanced use cases (Marco)  
 Might include:
 - MPI (including Sameers' MPI swap)
 - Gromacs on Nvidia GPUs
 - Intensive I/O using OverlayFS, TrinityRNAseq
 - Nextflow bioinformatics workflows
 
-14:20 - 15:00 Advanced deployments (multiple presenters?)  
+14:20 - 15:00 Deploying Services with Containers (multiple presenters?)  
 Might include:
 - A brief overview of deploying services using Rancher (Shane)
 - RStudio on a cloud VM with Docker (Marco)
@@ -121,7 +121,7 @@ Use xSDK/E4S containers
 16:00 - 16:30 Container images best practices (Shane)  
 
 16:30 - 16:45 Success Stories and Use Cases (Shane)
-- Examples of Containers used in a variety of uses and scales
+Examples of Containers used in a variety of uses and scales  
 
 16:45 - 17:00 Interactive Q & A  
 Including closing remarks, survey and feedback  
