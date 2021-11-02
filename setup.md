@@ -52,7 +52,7 @@ cd exercises
 > Users can also install Docker and Singularity prior to attending the tutorial session.  MPICH is required for running the MPI examples, too.  
 > Here, it may be beneficial to create a Docker and Sylabs (Singularity) account in advance at [https://cloud.docker.com](https://cloud.docker.com) and [https://cloud.sylabs.io](https://cloud.sylabs.io).  These accounts will be needed to create images on Docker Cloud/DockerHub and Sylabs Cloud.
 > 
-> [Install Singularity on Linux]({{ page.root }}/files/install-singularity.sh) \| [docs](https://sylabs.io/guides/3.5/user-guide/quick_start.html)
+> [Install Singularity on Linux]({{ page.root }}/files/install-singularity.sh) \| [docs](https://singularity.hpcng.org/user-docs/3.5/quick_start.html)
 > 
 > [Install Docker on Linux]({{ page.root }}/files/install-docker.sh) \| [docs (unofficial)](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-docker-on-ubuntu-18-04-lts-bionic-beaver.html)
 > 
@@ -72,7 +72,7 @@ cd exercises
 > 
 > For *Singularity*, you will need to setup a Linux virtual machine, and then follow the same instructions as above.  
 > It's not as bad as it sounds... the main two options are:
->   - Vagrant: follow these instructions by Sylabs on [Setting up Singularity with Vagrant](https://sylabs.io/guides/3.5/admin-guide/installation.html#installation-on-windows-or-mac) (*macOS* users: DO NOT use the proposed *Singularity Desktop*, use Vagrant instead);
+>   - Vagrant: follow these instructions by Sylabs on [Setting up Singularity with Vagrant](https://singularity.hpcng.org/admin-docs/3.5/installation.html#installation-on-windows-or-mac) (*macOS* users: DO NOT use the proposed *Singularity Desktop*, use Vagrant instead);
 >   - Multipass: follow instructions from the [Multipass Homepage](https://multipass.run).
 > 
 > For *Docker*, you can download and run installers for [macOS](https://hub.docker.com/editions/community/docker-ce-desktop-mac/) and [Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows/).
