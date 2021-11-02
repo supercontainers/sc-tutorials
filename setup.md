@@ -53,10 +53,13 @@ cd exercises
 > Here, it may be beneficial to create a Docker and Sylabs (Singularity) account in advance at [https://cloud.docker.com](https://cloud.docker.com) and [https://cloud.sylabs.io](https://cloud.sylabs.io).  These accounts will be needed to create images on Docker Cloud/DockerHub and Sylabs Cloud.
 > 
 > [Install Singularity on Linux]({{ page.root }}/files/install-singularity.sh) \| [docs](https://sylabs.io/guides/3.5/user-guide/quick_start.html)
-> 
 > [Install Docker on Linux]({{ page.root }}/files/install-docker.sh) \| [docs (unofficial)](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-docker-on-ubuntu-18-04-lts-bionic-beaver.html)
 > 
+> [Install Environment Modules on Linux]({{ page.root }}/files/install-modules.sh) \| [docs](http://modules.sourceforge.net)
+> [Install SHPC on Linux]({{ page.root }}/files/install-shpc.sh) \| [docs](https://singularity-hpc.readthedocs.io)
 > [Install MPICH on Linux]({{ page.root }}/files/install-mpich.sh) \| [docs](https://www.mpich.org/documentation/guides/)
+> [Install Nextflow on Linux]({{ page.root }}/files/install-nextflow.sh) \| [docs](https://www.nextflow.io/docs/latest/getstarted.html)
+> [Install Docker Compose on Linux]({{ page.root }}/files/install-dockercompose.sh) \| [docs](https://docs.docker.com/compose/)
 > 
 > **Note:** install scripts have been tested on a Ubuntu machine through a user that can run *sudo* commands without password prompts. There's no warranty they will work in your Linux box, you should consider them as templates.
 > 
