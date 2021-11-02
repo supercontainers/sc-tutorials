@@ -71,20 +71,20 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 WORK IN PROGRESS  
 
-8:00 - 8:20 Introduction and Update on Linux containers - SLIDES (Shane)  
+8:00 - 8:20 Introduction and update on Linux containers - SLIDES (Shane)  
 Including logging into VM, and defining jargon  
 
 8:20 - 8:50 Running containers (Shane)  
 Using Docker and Podman to run containers  
 
-8:50 - 9:30 Building and sharing container image (Eduardo?)  
+8:50 - 9:30 Building and sharing container images (Eduardo?)  
 Might also include creating Dockerfiles with Spack, and Buildah?  
 
 9:30 - 10:00 Container images best practices (Shane)  
 
 10:00 - 10:30 MORNING BREAK
 
-10:30 - 10:50 HPC and Containers - SLIDES (Shane)  
+10:30 - 10:50 HPC and containers - SLIDES (Shane)  
 Intro to the need for HPC Runtimes and Use Cases  
 
 10:50 - 11:10 Installing a container engine (who?)  
@@ -104,14 +104,14 @@ Using Slurm to submit container jobs
 
 13:00 - 13:30 Optional Q & A Session
 
-13:30 - 14:20 Advanced use cases (Marco)  
+13:30 - 14:20 Advanced HPC use cases (Marco)  
 Might include:
 - MPI (including Sameers' MPI swap)
 - Gromacs on Nvidia GPUs
 - Intensive I/O using OverlayFS, TrinityRNAseq
 - Nextflow bioinformatics workflows
 
-14:20 - 15:00 Deploying Services with Containers (multiple presenters?)  
+14:20 - 15:00 Deploying services with containers (multiple presenters?)  
 Might include:
 - A brief overview of deploying services using Rancher (Shane)
 - RStudio on a cloud VM with Docker (Marco)
@@ -122,10 +122,10 @@ Might include:
 15:30 - 16:20 Containers with E4S (Sameer)  
 Use xSDK/E4S containers  
 
-16:20 - 16:40 Success Stories and Use Cases (Shane)
+16:20 - 16:40 Success stories and use cases (Shane)
 Examples of Containers used in a variety of uses and scales  
 
-16:40 - 17:00 Interactive Q & A  
+16:40 - 17:00 Final Q & A and wrap-up  
 Including closing remarks, survey and feedback  
 
 
