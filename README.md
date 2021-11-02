@@ -71,14 +71,16 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 WORK IN PROGRESS  
 
-8:30 - 8:50 Introduction and Update on Linux containers - SLIDES (Shane)  
+8:00 - 8:20 Introduction and Update on Linux containers - SLIDES (Shane)  
 Including logging into VM, and defining jargon  
 
-8:50 - 9:20 Running containers (Shane)  
+8:20 - 8:50 Running containers (Shane)  
 Using Docker and Podman to run containers  
 
-9:20 - 10:00 Building and sharing container image (Eduardo?)  
+8:50 - 9:30 Building and sharing container image (Eduardo?)  
 Might also include creating Dockerfiles with Spack, and Buildah?  
+
+9:30 - 10:00 Container images best practices (Shane)  
 
 10:00 - 10:30 MORNING BREAK
 
@@ -98,7 +100,9 @@ Using Singularity and Shifter to run containers on HPC
 11:40 - 12:00 Interactive Q & A  
 Using Slurm to submit container jobs  
 
-12:00 - 13:30 LUNCH BREAK (CAN CHOOSE BETWEEN RESTART AT 13 OR 13:30, HAVE TO TELL ORGANISERS)
+12:00 - 13:00 LUNCH BREAK
+
+13:00 - 13:30 Optional Q & A Session
 
 13:30 - 14:20 Advanced use cases (Marco)  
 Might include:
@@ -115,15 +119,13 @@ Might include:
 
 15:00 - 15:30 AFTERNOON BREAK
 
-15:30 - 16:00 Containers with E4S (Sameer)  
+15:30 - 16:20 Containers with E4S (Sameer)  
 Use xSDK/E4S containers  
 
-16:00 - 16:30 Container images best practices (Shane)  
-
-16:30 - 16:45 Success Stories and Use Cases (Shane)
+16:20 - 16:40 Success Stories and Use Cases (Shane)
 Examples of Containers used in a variety of uses and scales  
 
-16:45 - 17:00 Interactive Q & A  
+16:40 - 17:00 Interactive Q & A  
 Including closing remarks, survey and feedback  
 
 
