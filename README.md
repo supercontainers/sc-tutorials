@@ -89,13 +89,13 @@ Intro to the need for HPC Runtimes and Use Cases
 
 10:50 - 11:10 Installing a container engine (who?)  
 Install Singularity and Charliecloud.  
-Might also include deploying Containers as Modules:
-- with Singularity Registry HPC, SHPC (Marco)
-- with compatibility layer in Shifter? (Shane)
-- in this case, possibly take 10 extra minutes from the previous slot
 
 11:10 - 11:40 Running HPC jobs with containers (Marco)  
 Using Singularity and Shifter to run containers on HPC  
+Might also include deploying Containers as Modules:
+- with Singularity Registry HPC, SHPC (Marco)
+- with compatibility layer in Shifter? (Shane)
+- in this case, possibly take 10 extra minutes from the next slot
 
 11:40 - 12:00 Interactive Q & A  
 Using Slurm to submit container jobs  
