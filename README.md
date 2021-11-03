@@ -74,10 +74,10 @@ WORK IN PROGRESS
 8:00 - 8:20 Introduction and update on Linux containers - SLIDES (Shane)  
 Including logging into VM, and defining jargon  
 
-8:20 - 8:50 Running containers (Shane)  
+8:20 - 8:50 Building and running Docker containers (Shane)  
 Using Docker and Podman to run containers  
 
-8:50 - 9:30 Building and sharing container images (Eduardo?)  
+8:50 - 9:30 Advanced container builds (Eduardo)  
 Might also include creating Dockerfiles with Spack, and Buildah?  
 
 9:30 - 10:00 Container images best practices (Shane)  
@@ -90,14 +90,14 @@ Intro to the need for HPC Runtimes and Use Cases
 10:50 - 11:10 Installing a container engine (who?)  
 Install Singularity and Charliecloud.  
 
-11:10 - 11:40 Running HPC jobs with containers (Marco)  
+11:10 - 11:50 Running HPC jobs with containers (Marco)  
 Using Singularity and Shifter to run containers on HPC  
 Might also include deploying Containers as Modules:
 - with Singularity Registry HPC, SHPC (Marco)
 - with compatibility layer in Shifter? (Shane)
 - in this case, possibly take 10 extra minutes from the next slot
 
-11:40 - 12:00 Interactive Q & A  
+11:50 - 12:00 Interactive Q & A  
 Using Slurm to submit container jobs  
 
 12:00 - 13:00 LUNCH BREAK
@@ -111,11 +111,11 @@ Might include:
 - Intensive I/O using OverlayFS, TrinityRNAseq
 - Nextflow bioinformatics workflows
 
-14:20 - 15:00 Deploying services with containers (multiple presenters?)  
+14:20 - 15:00 Container services and Kubernetes (multiple presenters)  
 Might include:
 - A brief overview of deploying services using Rancher (Shane)
-- RStudio on a cloud VM with Docker (Marco)
-- Kubernetes deployments? (Eduardo)
+- RStudio on a cloud VM with Docker Compose (Marco)
+- Kubernetes deployments (Eduardo)
 
 15:00 - 15:30 AFTERNOON BREAK
 
