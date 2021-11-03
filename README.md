@@ -80,7 +80,9 @@ Using Docker and Podman to run containers
 8:50 - 9:30 Advanced container builds (Eduardo)  
 Might also include creating Dockerfiles with Spack, and Buildah?  
 
-9:30 - 10:00 Container images best practices (Shane)  
+9:30 - 9:55 Container images best practices (Shane)  
+
+9:55 - 10:00 Interactive Q & A session  
 
 10:00 - 10:30 MORNING BREAK
 
@@ -97,12 +99,12 @@ Might also include deploying Containers as Modules:
 - with compatibility layer in Shifter? (Shane)
 - in this case, possibly take 10 extra minutes from the next slot
 
-11:50 - 12:00 Interactive Q & A  
-Using Slurm to submit container jobs  
+11:50 - 12:00 Interactive Q & A session  
 
 12:00 - 13:00 LUNCH BREAK
 
-13:00 - 13:30 Optional Q & A Session
+13:00 - 13:30 Optional Q & A session
+Using Slurm to submit container jobs  
 
 13:30 - 14:20 Advanced HPC use cases (Marco)  
 Might include:
