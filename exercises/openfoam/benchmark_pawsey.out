@@ -1,0 +1,35 @@
+/usr/lib64:/pawsey/intel/19.0.5/compilers_and_libraries/linux/mpi/intel64/libfabric/lib:/pawsey/intel/19.0.5/compilers_and_libraries/linux/mpi/intel64/lib/release:/pawsey/intel/19.0.5/compilers_and_libraries/linux/mpi/intel64/lib:$LD_LIBRARY_PATH
+time="2021-06-24T18:05:33+08:00" level=warning msg="\"/run/user/22669\" directory set by $XDG_RUNTIME_DIR does not exist. Either create the directory or unset $XDG_RUNTIME_DIR.: stat /run/user/22669: no such file or directory: Trying to pull image in the event that it is a public image."
+time="2021-06-24T18:05:33+08:00" level=warning msg="\"/run/user/22669\" directory set by $XDG_RUNTIME_DIR does not exist. Either create the directory or unset $XDG_RUNTIME_DIR.: stat /run/user/22669: no such file or directory: Trying to pull image in the event that it is a public image."
+INFO:    Using cached SIF image
+INFO:    Using cached SIF image
+# OSU MPI Bandwidth Test v5.4.1
+# Size      Bandwidth (MB/s)
+1024                 2100.37
+2048                 3065.67
+4096                 4099.85
+8192                 5294.69
+16384                4708.34
+32768                5783.85
+65536                8764.06
+131072              10555.02
+262144              11207.58
+524288              11655.23
+1048576             11763.13
+time="2021-06-24T18:05:39+08:00" level=warning msg="\"/run/user/22669\" directory set by $XDG_RUNTIME_DIR does not exist. Either create the directory or unset $XDG_RUNTIME_DIR.: stat /run/user/22669: no such file or directory: Trying to pull image in the event that it is a public image."
+time="2021-06-24T18:05:39+08:00" level=warning msg="\"/run/user/22669\" directory set by $XDG_RUNTIME_DIR does not exist. Either create the directory or unset $XDG_RUNTIME_DIR.: stat /run/user/22669: no such file or directory: Trying to pull image in the event that it is a public image."
+INFO:    Using cached SIF image
+INFO:    Using cached SIF image
+# OSU MPI Bandwidth Test v5.4.1
+# Size      Bandwidth (MB/s)
+1024                   85.25
+2048                  101.76
+4096                  108.14
+8192                  111.66
+16384                 114.05
+32768                 116.12
+65536                 116.80
+131072                117.00
+262144                117.24
+524288                117.38
+1048576               117.45
