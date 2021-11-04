@@ -11,7 +11,6 @@ image="docker://pawsey/mpich-base:3.1.4_ubuntu18.04"
 osu_dir="/usr/local/libexec/osu-micro-benchmarks/mpi"
 
 # this configuration depends on the host
-module unload xalt
 module load singularity
 
 
