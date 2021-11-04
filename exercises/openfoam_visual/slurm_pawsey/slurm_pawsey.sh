@@ -9,7 +9,8 @@ unset SBATCH_EXPORT
 export theImage="library://marcodelapierre/beta/openfoam:v2012"
 
 # this configuration depends on the host
-module unload xalt
 module load singularity
+
+
 
 ./runAll.sh
