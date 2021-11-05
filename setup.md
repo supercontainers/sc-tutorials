@@ -56,6 +56,8 @@ cd exercises
 > 
 > [Install Docker on Linux]({{ page.root }}/files/install-docker.sh) \| [docs (unofficial)](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-docker-on-ubuntu-18-04-lts-bionic-beaver.html)
 > 
+> [Install Charliecloud on Linux]({{ page.root }}/files/install-charliecloud.sh) (uses Spack) \| [docs](https://hpc.github.io/charliecloud)
+> 
 > [Install Environment Modules on Linux]({{ page.root }}/files/install-modules.sh) \| [docs](http://modules.sourceforge.net)
 > 
 > [Install SHPC on Linux]({{ page.root }}/files/install-shpc.sh) \| [docs](https://singularity-hpc.readthedocs.io)
