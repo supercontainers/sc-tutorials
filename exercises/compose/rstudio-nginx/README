@@ -1,0 +1,6 @@
+As a reference, see demo deployment at https://github.com/pawseySC/rstudio-nginx .
+Notes:
+ - enables secure communication using HTTPS
+ - requires docker and docker-compose
+ - requires ports 80 and 443
+ - requires custom domain name
