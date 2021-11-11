@@ -69,16 +69,11 @@ We have also created a Slack Team for this.  The invitation link is [here](https
 
 ## Schedule
 
-WORK IN PROGRESS  
-
 8:00 - 8:20 Introduction and update on Linux containers - SLIDES (Shane)  
-Including logging into VM, and defining jargon  
 
 8:20 - 8:50 Building and running Docker containers (Shane)  
-Using Docker and Podman to run containers  
 
 8:50 - 9:30 Advanced container builds (Eduardo)  
-Might also include creating Dockerfiles with Spack, and Buildah?  
 
 9:30 - 9:55 Container images best practices (Shane)  
 
@@ -87,47 +82,26 @@ Might also include creating Dockerfiles with Spack, and Buildah?
 10:00 - 10:30 MORNING BREAK
 
 10:30 - 10:50 HPC and containers - SLIDES (Shane)  
-Intro to the need for HPC Runtimes and Use Cases  
 
-10:50 - 11:10 Installing a container engine (who?)  
-Install Singularity and Charliecloud.  
+10:50 - 11:10 Installing a container engine - SLIDES (Marco)  
 
 11:10 - 11:50 Running HPC jobs with containers (Marco)  
-Using Singularity and Shifter to run containers on HPC  
-Might also include deploying Containers as Modules:
-- with Singularity Registry HPC, SHPC (Marco)
-- with compatibility layer in Shifter? (Shane)
-- in this case, possibly take 10 extra minutes from the next slot
 
 11:50 - 12:00 Interactive Q & A session  
 
 12:00 - 13:00 LUNCH BREAK
 
-13:00 - 13:30 Optional Q & A session
-Using Slurm to submit container jobs  
+13:00 - 13:30 Optional Q & A session (including Slurm)  
 
 13:30 - 14:20 Advanced HPC use cases (Marco)  
-Might include:
-- MPI (including Sameers' MPI swap)
-- Gromacs on Nvidia GPUs
-- Intensive I/O using OverlayFS, TrinityRNAseq
-- Nextflow bioinformatics workflows
 
 14:20 - 15:00 Container services and Kubernetes (multiple presenters)  
-Might include:
-- A brief overview of deploying services using Rancher (Shane)
-- RStudio on a cloud VM with Docker Compose (Marco)
-- Kubernetes deployments (Eduardo)
 
 15:00 - 15:30 AFTERNOON BREAK
 
 15:30 - 16:20 Containers with E4S (Sameer)  
-Use xSDK/E4S containers  
 
 16:20 - 16:40 Success stories and use cases (Shane)
-Examples of Containers used in a variety of uses and scales  
 
-16:40 - 17:00 Final Q & A and wrap-up  
-Including closing remarks, survey and feedback  
-
+16:40 - 17:00 Final Q & A, wrap-up, and feedback survey  
 
