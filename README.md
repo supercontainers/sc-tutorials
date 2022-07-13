@@ -23,11 +23,6 @@ Link: [SC 2022 Tutorial Details](https://sc22.supercomputing.org/presentation/?i
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
 
-## EC2 Login
-
-These will be provided the day of the tutorial.
-
-
 ## Abstract
 
 Within just the past few years, the use of containers has revolutionized the way in which industries and enterprises have developed and deployed computational software and distributed systems. The containerization model has gained traction within the HPC community as well with the promise of improved reliability, reproducibility, portability, and levels of customization that were previously not possible on supercomputers. This adoption has been enabled by a number of HPC Container runtimes that have emerged including Singularity, Shifter, Enroot, Charliecloud and others.
@@ -37,27 +32,7 @@ This hands-on tutorial looks to train users on the usability of containers on HP
 
 ## Prerequisites
 
-This is a hands-on tutorial.  Participants should bring a laptop and load or pre-install a terminal and/or ssh client in advance to make best use of time during the tutorial.  We will be providing training user accounts to both pre-configured EC2 instances.
-
-<div style="text-align:center"><img src="fig/AWS_logo.png" width="250"></div>
-
-This tutorial is supported by the Amazon AWS Machine Learning Research Awards.  EC2 images and temporary login credentials will be distributed onsite at the tutorial.
-
-After the tutorial, you can boot our tutorial image yourself on Amazon EC2 to run through the tutorial again. We recommend you use your own EC2 key and change the password.
-
-US-West-Oregon: ami-0fe12765123c6a840 
-
-
-### Optional Prerequisites
-
-Users can also install Docker and Singularity prior to attending the tutorial session.  Here, it may be beneficial to create Docker and Sylabs (Singularity) accounts in advance at https://cloud.docker.com/ and https://cloud.sylabs.io/.  These accounts will be needed to create images on Docker Cloud/Dockerhub and Sylabs Cloud.
-
-[Install Singularity on Linux](https://sylabs.io/guides/3.7/user-guide/)
-
-[Install Singularity on Mac](https://repo.sylabs.io/desktop/) (Alpha)
-
-[Install Docker for Desktop](https://www.docker.com/products/docker-desktop)
-
+Please consult the website for prerequisites and recommended setup steps.
 
 ## Questions
 
