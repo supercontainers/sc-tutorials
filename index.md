@@ -10,13 +10,13 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
 
-ECP Supercontainers Tutorial Session @ Supercomputing Conference 2021 (SC21)
+Containers Tutorial Session @ Supercomputing Conference 2022 (SC22)
 
-Date: Monday, 15 November 2021 8am - 5pm Central Standard Time (GMT -6)
+Date: TBD November 2022 8am - 5pm Central Standard Time (GMT -6)
 
-Location: Virtual, St. Louis MO, USA
+Location: Dallas, TX, USA
 
-Link: [SC 2021 Tutorial Details](https://sc21.supercomputing.org/presentation/?id=tut114&sess=sess185)
+Link: [SC 2022 Tutorial Details](https://sc22.supercomputing.org/presentation/?id=tut114&sess=sess185)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
