@@ -42,7 +42,7 @@ To run the examples yourself, you can download the materials with:
 cd ~
 git clone https://github.com/supercontainers/sc-tutorials.git
 cd sc-tutorials
-git checkout sc21
+git checkout sc22
 cd exercises
 ```
 
