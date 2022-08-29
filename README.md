@@ -12,11 +12,11 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutori
 
 Full-day Tutorial Session
 
-Venue: Supercomputing Conference (SC 21)
+Venue: Supercomputing Conference (SC 22)
 
-Date: TBD November 2022 8am - 5pm Central Standard Time (GMT -6)
+Date: Sunday November 13, 2022 8:30am - 5pm Central Standard Time (GMT -6)
 
-Location: Virtual, St. Louis MO, USA
+Location: Dallas TX, USA
 
 Link: [SC 2022 Tutorial Details](https://sc22.supercomputing.org/presentation/?id=tut114&sess=sess185)
 
