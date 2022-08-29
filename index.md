@@ -12,7 +12,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 Containers Tutorial Session @ Supercomputing Conference 2022 (SC22)
 
-Date: TBD November 2022 8am - 5pm Central Standard Time (GMT -6)
+Date: Sunday, November 13, 2022 8:30am - 5pm Central Standard Time (GMT -6)
 
 Location: Dallas, TX, USA
 
