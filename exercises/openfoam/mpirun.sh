@@ -1,7 +1,7 @@
 #!/bin/bash
 
 NTASKS="2"
-image="library://marcodelapierre/beta/openfoam:v2012"
+image="docker://quay.io/pawsey/sc22-openfoam:v2012"
 
 # this configuration depends on the host
 . /opt/intel/oneapi/setvars.sh
