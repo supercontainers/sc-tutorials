@@ -16,7 +16,7 @@ Date: Sunday, November 13, 2022 8:30am - 5pm Central Standard Time (GMT -6)
 
 Location: Dallas, TX, USA
 
-Link: [SC 2022 Tutorial Details](https://sc22.supercomputing.org/presentation/?id=tut114&sess=sess185)
+Link: [SC 2022 Tutorial Details](https://sc22.supercomputing.org/presentation/?id=tut111&sess=sess201)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
