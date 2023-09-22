@@ -5,20 +5,20 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutori
 
 ## HPC Containers Tutorial Session
 
-<img src="fig/ecp.jpg" width="200"><img src="fig/pawsey.png" width="200"><img src="fig/redhat.png" width="200">
+<img src="fig/ecp.jpg" width="200"><img src="fig/pawsey.png" width="200"><img src="fig/nvidia.png" width="200">
 
 
 ## Details
 
 Full-day Tutorial Session
 
-Venue: Supercomputing Conference (SC 22)
+Venue: Supercomputing Conference (SC 23)
 
-Date: Sunday November 13, 2022 8:30am - 5pm Central Standard Time (GMT -6)
+Date: Sunday November 12, 2023 8:30am - 5pm Mountain Standard Time (GMT -7)
 
-Location: Dallas TX, USA
+Location: Denver CO, USA
 
-Link: [SC 2022 Tutorial Details](https://sc22.supercomputing.org/presentation/?id=tut111&sess=sess201)
+Link: [SC 2023 Tutorial Details](https://sc23.supercomputing.org/presentation/?id=tut108&sess=sess220)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
