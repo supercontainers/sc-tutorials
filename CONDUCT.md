@@ -1,12 +1,7 @@
 ---
 layout: page
-title: "Contributor Code of Conduct"
+title: "Code of Conduct"
 permalink: /conduct/
 ---
-As contributors and maintainers of this project,
-we pledge to follow the [Carpentry Code of Conduct][coc].
-
-Instances of abusive, harassing, or otherwise unacceptable behavior
-may be reported by following our [reporting guidelines][coc-reporting].
-
-{% include links.md %}
+As a workshop that is part of SC23, we will follow the
+SC23 Code of Conduct.  Please see the [SC website](https://sc23.supercomputing.org/attend/code-of-conduct/) for details.
