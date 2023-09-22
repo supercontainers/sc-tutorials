@@ -10,13 +10,13 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 <img src="{{ page.root }}/fig/redhat.png" alt="RedHat Logo" width="250">
 
 
-Containers Tutorial Session @ Supercomputing Conference 2022 (SC22)
+Containers Tutorial Session @ Supercomputing Conference 2023 (SC23)
 
-Date: Sunday, November 13, 2022 8:30am - 5pm Central Standard Time (GMT -6)
+Date: Sunday, November 12, 2023 8:30am - 5pm Mountain Standard Time (GMT -6)
 
-Location: Dallas, TX, USA
+Location: Denver, CO, USA
 
-Link: [SC 2022 Tutorial Details](https://sc22.supercomputing.org/presentation/?id=tut111&sess=sess201)
+Link: [SC 2023 Tutorial Details](https://sc23.supercomputing.org/presentation/?id=tut108&sess=sess220)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
