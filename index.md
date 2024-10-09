@@ -13,6 +13,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 Containers Tutorial Session @ Supercomputing Conference 2024 (SC24)
 
 Date: Monday, 18 November 2024 8:30am - 5pm EST
+
 Location: Altanta, GA, USA
 
 Link: [SC 2024 Tutorial Details](https://sc24.conference-program.com/presentation/?id=tut110&sess=sess405)
