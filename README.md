@@ -12,13 +12,12 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutori
 
 Full-day Tutorial Session
 
-Venue: Supercomputing Conference (SC 23)
+Venue: Supercomputing Conference (SC 24)
 
-Date: Sunday November 12, 2023 8:30am - 5pm Mountain Standard Time (GMT -7)
 
-Location: Denver CO, USA
+Location: Atlanta, GA, USA
 
-Link: [SC 2023 Tutorial Details](https://sc23.supercomputing.org/presentation/?id=tut108&sess=sess220)
+Link: [SC 2024 Tutorial Details](https://sc24.conference-program.com/presentation/?id=tut110&sess=sess405)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 

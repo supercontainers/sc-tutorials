@@ -10,13 +10,12 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 <img src="{{ page.root }}/fig/nvidia.png" alt="Nvidia Logo" width="250">
 
 
-Containers Tutorial Session @ Supercomputing Conference 2023 (SC23)
+Containers Tutorial Session @ Supercomputing Conference 2024 (SC24)
 
-Date: Sunday, November 12, 2023 8:30am - 5pm Mountain Standard Time (GMT -6)
+Date: Monday, 18 November 2024 8:30am - 5pm EST
+Location: Altanta, GA, USA
 
-Location: Denver, CO, USA
-
-Link: [SC 2023 Tutorial Details](https://sc23.supercomputing.org/presentation/?id=tut108&sess=sess220)
+Link: [SC 2024 Tutorial Details](https://sc24.conference-program.com/presentation/?id=tut110&sess=sess405)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
