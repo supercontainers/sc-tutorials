@@ -41,9 +41,7 @@ To run the examples yourself, you can download the materials with:
 ```bash
 cd ~
 git clone https://github.com/supercontainers/sc-tutorials.git
-cd sc-tutorials
-git checkout sc22
-cd exercises
+cd sc-tutorials/exercies
 ```
 
 
