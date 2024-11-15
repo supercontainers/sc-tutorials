@@ -13,7 +13,6 @@ export SINGULARITY_BINDPATH="$MPICH_ROOT"
 export SINGULARITYENV_LD_LIBRARY_PATH="$MPICH_LIBS:\$LD_LIBRARY_PATH"
 
 
-
 # pre-processing
 singularity exec $image \
   blockMesh | tee log.blockMesh

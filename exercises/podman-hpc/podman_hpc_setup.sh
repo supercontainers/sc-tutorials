@@ -15,14 +15,15 @@ export PODMANHPC_HOOKS_DIR=/home/training2/.hooks.d
 export PODMANHPC_MODULES_DIR=/home/training2/etc/modules.d
 
 [ -e $PODMANHPC_HOOKS_DIR ] || mkdir $PODMANHPC_HOOKS_DIR
+HT=$(which hook_tool)
 cat << EOF > $PODMANHPC_HOOKS_DIR/02-hook_tool.json
 {
     "version": "1.0.0",
     "hook": {
         "env": [
-	    "HOME=/home/$(id -u -n)"
+	    "HOME=${HOME}"
 	],
-	"path": "/home/$(id -u -n)/.local/bin/hook_tool",
+	"path": "${HT}",
         "args": ["hook_tool"]
     },
     "when": {
@@ -34,9 +35,9 @@ cat << EOF > $PODMANHPC_HOOKS_DIR/02-hook_tool.json
 }
 EOF
 
-[ -e .local/bin/mksquashfs.static ] || (cd .local/bin && wget https://portal.nersc.gov/project/bigdata/mksquashfs.static)
+[ -e ~/.local/bin/mksquashfs.static ] || (cd ~/.local/bin && wget https://portal.nersc.gov/project/bigdata/mksquashfs.static)
 
-chmod a+rx .local/bin/mksquashfs.static
+chmod a+rx ~/.local/bin/mksquashfs.static
 
 export SCRATCH=$HOME
 
