@@ -20,7 +20,7 @@ We will be providing training user accounts to both pre-configured EC2 instances
 
 <div style="text-align:center"><img src="fig/AWS_logo.png" width="250"></div>
 
-This tutorial is supported by the Amazon AWS Machine Learning Research Awards. EC2 images and temporary login credentials will be distributed onsite at the tutorial.
+This tutorial is supported by the Amazon AWS Machine Learning Research Awards. EC2 images and temporary login credentials will be distributed onsite at the tutorial. Here are <A HREF="https://drive.google.com/file/d/14l6LEfuXyH-E4rx2enMAaXrdRSZ-R1Fr/view?usp=share_link">setup slides</A>. 
 
 After the tutorial, you can boot our tutorial image yourself on Amazon EC2 to run through the tutorial again. We recommend you use your own EC2 key and change the password.
 
