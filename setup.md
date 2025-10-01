@@ -7,7 +7,7 @@ root: .
 
 ### Key requirement
 
-The main requirement for this workshop is a personal computer with a web browser and a command line shell program.  
+The main requirement for this workshop is a personal computer with a web browser and, oppotionally, a command line shell program.  
 
 *Windows* users: [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) is the *preferred option*.  The *Portable Edition* is best, as it does not require administrative privileges.  
 <!--Other acceptable options would be [Visual Studio Code](https://code.visualstudio.com/) or PuTTY, but you will also need to install [Cygwin/X](https://x.cygwin.com) to run the example on X11 applications.  -->
@@ -16,7 +16,7 @@ In this way you will be able to follow the online materials and to login to a fa
 
 ### Training accounts
 
-We will be providing training user accounts to both pre-configured EC2 instances.
+We will be providing training user accounts to pre-configured EC2 instances.
 
 <div style="text-align:center"><img src="fig/AWS_logo.png" width="250"></div>
 
@@ -29,9 +29,7 @@ US-West-Oregon: ami-0fe12765123c6a840
 
 ### NERSC Training Accounts (optional)
 
-In addition to the AWS instances, you can also try running some of the Shifter-based excercises on NERSC's Cori system, a Cray XC40 system.  To sign-up for a NERSC tutorial account, visit
-[https://iris.nersc.gov/train](https://iris.nersc.gov/train) and fill out the form.  The training code will be provided during the tutorial.  Please note that, due to security
-restrictions, access may be limited but all of the excercises can be done on the AWS instances.
+In addition to the AWS instances, you can also try running some of the exercises on NERSC’s Perlmutter system. Please apply for a NERSC training project membership by following the instructions here: Form (non-NERSC users due Nov 1, and existing NERSC users due Nov 12). Please note that, due to security restrictions, access may be limited but all of the exercises can be done on the AWS instances.
 
 
 ### Materials repository
