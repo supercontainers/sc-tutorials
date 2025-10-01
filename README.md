@@ -12,12 +12,12 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutori
 
 Full-day Tutorial Session
 
-Venue: Supercomputing Conference (SC 24)
+Venue: Supercomputing Conference (SC 25)
 
 
-Location: Atlanta, GA, USA
+Location: St. Louis, MO, USA
 
-Link: [SC 2024 Tutorial Details](https://sc24.conference-program.com/presentation/?id=tut110&sess=sess405)
+Link: SC 2025 Tutorial Details](https://sc25.conference-program.com/presentation/?id=tut109&sess=sess250)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
