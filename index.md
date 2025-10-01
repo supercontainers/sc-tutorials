@@ -5,18 +5,14 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 ---
 
 
-<img src="{{ page.root }}/fig/ecp.jpg" alt="ECP Logo" width="250">
-<img src="{{ page.root }}/fig/pawsey.png" alt="Pawsey Logo" width="250">
-<img src="{{ page.root }}/fig/nvidia.png" alt="Nvidia Logo" width="250">
 
+Containers Tutorial Session @ Supercomputing Conference 2025 (SC25)
 
-Containers Tutorial Session @ Supercomputing Conference 2024 (SC24)
+Date: Monday, 17 November 2024 8:30am - 5pm EST
 
-Date: Monday, 18 November 2024 8:30am - 5pm EST
+Location: St. Louis, MO, USA
 
-Location: Altanta, GA, USA
-
-Link: [SC 2024 Tutorial Details](https://sc24.conference-program.com/presentation/?id=tut110&sess=sess405)
+Link: [SC 2025 Tutorial Details](https://sc25.conference-program.com/presentation/?id=tut109&sess=sess250)
 
 Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Software Development, DevOps
 
