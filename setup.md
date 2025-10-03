@@ -29,7 +29,7 @@ US-West-Oregon: ami-0fe12765123c6a840
 
 ### NERSC Training Accounts (optional)
 
-In addition to the AWS instances, you can also try running some of the exercises on NERSC’s Perlmutter system. Please apply for a NERSC training project membership by following the instructions here: Form (non-NERSC users due Nov 1, and existing NERSC users due Nov 12). Please note that, due to security restrictions, access may be limited but all of the exercises can be done on the AWS instances.
+In addition to the AWS instances, you can also try running some of the exercises on NERSC’s Perlmutter system. Please apply for a NERSC training project membership by following the instructions here: [Form](https://forms.gle/aycoP4yzQAznNwS76) (non-NERSC users due Nov 1, and existing NERSC users due Nov 12). Please note that, due to security restrictions, access may be limited but all of the exercises can be done on the AWS instances.
 
 
 ### Materials repository
