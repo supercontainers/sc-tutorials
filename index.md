@@ -22,7 +22,7 @@ Keywords: Containerized HPC, System Software and Runtime Systems, Scientific Sof
 > This is a hands-on tutorial.  Participants should bring a laptop.  We will use a AWS instances for the main exercises.
 >
 > #### NERSC Perlmutter (optional)
-> In addition to the AWS instances, you can also try running some of the exercises on NERSC’s Perlmutter system. Please apply for a NERSC training project membership by following the instructions here: [Form](https://forms.gle/aycoP4yzQAznNwS76) (non-NERSC users due Nov 1, and existing NERSC users due Nov 12).  Please note that, due to security restrictions, access may be limited but all of the exercises can be done on the AWS instances.
+> In addition to the AWS instances, you can also try running some of the exercises on NERSC’s Perlmutter system. Please apply for a NERSC training project membership by following the instructions here: [Form](https://forms.gle/nftFLGkkfjbLzAXt8) (non-NERSC users due Nov 1, and existing NERSC users due Nov 12).  Please note that, due to security restrictions, access may be limited but all of the exercises can be done on the AWS instances.
 > 
 > See also the [Setup](./setup.html) page.
 {: .prereq}
