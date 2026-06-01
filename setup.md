@@ -7,10 +7,10 @@ root: .
 
 ### Key requirement
 
-The main requirement for this workshop is a personal computer with a web browser and, oppotionally, a command line shell program.  
-
+The main requirement for this workshop is a personal computer with a web browser and, optionally, a terminal.
 *Windows* users: [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) is the *preferred option*.  The *Portable Edition* is best, as it does not require administrative privileges.  
 <!--Other acceptable options would be [Visual Studio Code](https://code.visualstudio.com/) or PuTTY, but you will also need to install [Cygwin/X](https://x.cygwin.com) to run the example on X11 applications.  -->
+
 In this way you will be able to follow the online materials and to login to a facility with the required software stack.
 
 
@@ -24,13 +24,6 @@ This tutorial is supported by the Amazon AWS Machine Learning Research Awards. E
 
 After the tutorial, you can boot our tutorial image yourself on Amazon EC2 to run through the tutorial again. We recommend you use your own EC2 key and change the password.
 
-US-West-Oregon: ami-0fe12765123c6a840
-
-
-### NERSC Training Accounts (optional)
-
-In addition to the AWS instances, you can also try running some of the exercises on NERSC’s Perlmutter system. Please apply for a NERSC training project membership by following the instructions here: [Form](https://forms.gle/nftFLGkkfjbLzAXt8) (non-NERSC users due Nov 1, and existing NERSC users due Nov 12). Please note that, due to security restrictions, access may be limited but all of the exercises can be done on the AWS instances.
-
 
 ### Materials repository
 
@@ -39,7 +32,7 @@ To run the examples yourself, you can download the materials with:
 ```bash
 cd ~
 git clone https://github.com/supercontainers/sc-tutorials.git
-cd sc-tutorials/exercies
+cd sc-tutorials/exercises
 ```
 
 
@@ -69,7 +62,7 @@ cd sc-tutorials/exercies
 > ### macOS or Windows machine
 > 
 > For *Singularity*, you will need to setup a Linux virtual machine, and then follow the same instructions as above.  
-> It's not as bad as it sounds... the main two options are:
+> It's not as bad as it sounds... The main two options are:
 >   - Vagrant: follow these instructions by Sylabs on [Setting up Singularity with Vagrant](https://singularity.hpcng.org/admin-docs/3.5/installation.html#installation-on-windows-or-mac) (*macOS* users: DO NOT use the proposed *Singularity Desktop*, use Vagrant instead);
 >   - Multipass: follow instructions from the [Multipass Homepage](https://multipass.run).
 > 
