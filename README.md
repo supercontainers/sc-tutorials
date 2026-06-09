@@ -38,4 +38,3 @@ You can ask questions verbally or with this [Google Doc](). Please append your q
 
 <!-- TODO: is invitation link still valid? -->
 We have also created a Slack Team for this. The invitation link is [here](https://join.slack.com/t/hpc-containers/shared_invite/enQtODI3NzY1NDU4OTk5LTUxOTgyOWJmYjIwOWI5YWU2MzBhZDI3Zjc1YmZmMjAxZjgzYzk4ZWEwNmFlNzlkOWI0MGNlZDNlMTBhYTBlOWY).
-
