@@ -5,8 +5,6 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutori
 
 ## HPC Containers Tutorial Session
 
-<img src="fig/ecp.jpg" width="200"><img src="fig/pawsey.png" width="200"><img src="fig/nvidia.png" width="200">
-
 
 ## Details
 
@@ -34,7 +32,7 @@ Please consult the website for prerequisites and recommended setup steps.
 ## Questions
 
 <!-- TODO: add link to Google document for questions (with edit privileges) -->
-You can ask questions verbally or with this [Google Doc](). Please append your question below the others in the document.
+You can ask questions verbally or with this [Google Doc](https://docs.google.com/document/d/1SMbSkl3wie-Pb8BLyYIZqUh-BqTjaHWJwBjRP2IZBp8/edit?usp=sharing). Please append your question below the others in the document.
 
 <!-- TODO: is invitation link still valid? -->
 We have also created a Slack Team for this. The invitation link is [here](https://join.slack.com/t/hpc-containers/shared_invite/enQtODI3NzY1NDU4OTk5LTUxOTgyOWJmYjIwOWI5YWU2MzBhZDI3Zjc1YmZmMjAxZjgzYzk4ZWEwNmFlNzlkOWI0MGNlZDNlMTBhYTBlOWY).
