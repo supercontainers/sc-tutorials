@@ -6,7 +6,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 
 
-Containers Tutorial Session @ Super Computing 2026 (SC26)
+Containers Tutorial Session @ SuperComputing 2026 (SC26)
 
 Date: Sunday, 15 November 2026 8:30AM - 5:00PM CST
 

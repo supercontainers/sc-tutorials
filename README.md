@@ -10,7 +10,7 @@ View this on the [Tutorial Homepage](https://supercontainers.github.io/sc-tutori
 
 Full-day Tutorial Session
 
-Venue: Super Computing 2026 (SC26)
+Venue: SuperComputing 2026 (SC26)
 
 
 Location: Chicago, IL
